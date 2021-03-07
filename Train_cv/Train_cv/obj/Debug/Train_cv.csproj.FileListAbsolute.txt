@@ -1,0 +1,7 @@
+C:\Users\kolecko\Desktop\Train\Train_cv\Train_cv\bin\Debug\Train_cv.exe.config
+C:\Users\kolecko\Desktop\Train\Train_cv\Train_cv\bin\Debug\Train_cv.exe
+C:\Users\kolecko\Desktop\Train\Train_cv\Train_cv\bin\Debug\Train_cv.pdb
+C:\Users\kolecko\Desktop\Train\Train_cv\Train_cv\obj\Debug\Train_cv.csprojAssemblyReference.cache
+C:\Users\kolecko\Desktop\Train\Train_cv\Train_cv\obj\Debug\Train_cv.csproj.CoreCompileInputs.cache
+C:\Users\kolecko\Desktop\Train\Train_cv\Train_cv\obj\Debug\Train_cv.exe
+C:\Users\kolecko\Desktop\Train\Train_cv\Train_cv\obj\Debug\Train_cv.pdb
